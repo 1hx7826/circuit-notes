@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+web-app/src/generated/
+*.tsbuildinfo
+.env*
+.playwright*/
+output/
+publish/
